@@ -205,7 +205,7 @@
             </div>
             <div class="col-md">
               <p class="ft2">
-                Copyright My Miltea Shop 2021 &nbsp;&nbsp;&nbsp;
+                Copyright My Milktea Shop 2021 &nbsp;&nbsp;&nbsp;
                 <i class="fab fa-facebook"></i>
                 <i class="fab fa-instagram"></i>
                 <i class="fab fa-twitter"></i>
